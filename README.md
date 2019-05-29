@@ -17,11 +17,11 @@ This video course covers React Native topics ranging from adding basic UI compon
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+<br>To fully benefit from the coverage included in this course, you will need:<br/>
 This video course is for web developers who are familiar with React.js and know the basics of UI development. You may or may not have used React Native before, but it's ideal for you if you want to develop native applications for iOS and Android. Existing knowledge of JavaScript ES2015 is highly recommended
 
 ### Technical Requirements
-This course has the following software requirements:<br/>
+<br>This course has the following software requirements:<br/>
 JavaScript
 
 ## Related Products
